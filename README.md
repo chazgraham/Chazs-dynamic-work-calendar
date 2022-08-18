@@ -9,10 +9,10 @@ A website for scheduling events around the users work day
 *javaScript
 
 ## Website
-
+https://chazgraham.github.io/Chazs-dynamic-work-calendar/
 
 ## Screenshots
-![](./asset2/imgs/web%20pic.jpg)
+![](./assets2/imgs/web%20pic.jpg)
 
 
 ## Contribution
