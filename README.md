@@ -12,7 +12,7 @@ A website for scheduling events around the users work day
 
 
 ## Screenshots
-![](./assets/imgs/web%20pic.jpg)
+![](./asset2/imgs/web%20pic.jpg)
 
 
 ## Contribution
